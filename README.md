@@ -12,5 +12,9 @@ Kegunaan JSON pada RestAPI adalah sebagai format untuk bertukar data client atau
 -validasi field phone dengan format   : harus angka dan diawali "+62" dengan panjang 8-15 karakter.
 <br>
 <br>
+**3. Cetak segitiga kosong dengan c++**<br>
+Mencetak segitiga sama kaki terbalik dengan c++
+<br>
+<br>
 
 
