@@ -37,6 +37,7 @@
                 <th>Name</th>
                 <th>Hobby</th>
                 <th>Category</th>
+                 <th width="200px">Action</th>
                 </tr>
             </thead>
             <tbody>
