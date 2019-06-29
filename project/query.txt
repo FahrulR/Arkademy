@@ -1,0 +1,1 @@
+select nama.name, hobi.name, kategori.name from nama, hobi, kategori where nama.id_hobby = hobi.id_hobby and nama.id_category = kategori.id_category
