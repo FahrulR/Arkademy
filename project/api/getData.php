@@ -1,7 +1,7 @@
 <?php
 require 'db_config.php';
 
-$sql = "select nama.name as name, hobi.name as hobby, kategori.name as category from nama, hobi, kategori where nama.id_hobby = hobi.id_hobby and nama.id_category = kategori.id_category";
+$sql = "select nama.id_name as id, nama.name as name, hobi.name as hobby, kategori.name as category from nama, hobi, kategori where nama.id_hobby = hobi.id_hobby and nama.id_category = kategori.id_category";
 
 $result = $koneksi->query($sql);
 
